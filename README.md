@@ -1,4 +1,6 @@
 ## CUDA-GSSA
+GPU implementation of Gillespie's Stochastic Simulation Algorithm (GSSA) using CUDA.
+Final project for BIOEN 6760, Modeling and Analysis of Biological Networks.
 
 ## INTRODUCTION
 
