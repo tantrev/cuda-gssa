@@ -69,7 +69,7 @@ Finally, the limitations of attempting to compare the performance of a parallel 
 
 Figure 7. Memory Hierarchy. Digital image. CUDA C Programming Guide. NVIDIA Corporation. <http://docs.nvidia.com/cuda/cuda-c-programming-guide/>.
 
-Harris, Mark, Shubhabrata Sengupta, and John D. Owens. Figure 39-2. Digital image. GPU Gems 3: Chapter 39. Parallel Prefix Sum (Scan) with CUDA. http://http.developer.nvidia.com/GPUGems3/gpugems3_ch39.html
+Harris, Mark, Shubhabrata Sengupta, and John D. Owens. Figure 39-2. Digital image. GPU Gems 3: Chapter 39. Parallel Prefix Sum (Scan) with CUDA. https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch39.html
 
 Klingbeil, G., Erban, R., Giles, M., & Maini, P. K. (2012). Fat versus Thin Threading Approach on GPUs: Application to Stochastic Simulation of Chemical Reactions. IEEE Transactions on Parallel and Distributed Systems, 23(2), 280–287. doi:10.1109/TPDS.2011.157
 
