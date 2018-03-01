@@ -38,18 +38,22 @@ A quad-core Intel Q6600 processor (2.4 GHz, 8M L2 cache) with 6GB of DDR2-800 (P
 ## RESULTS
 
 ![Figure 3](https://i.imgur.com/uwFVZ3K.png)
+
 **Figure 3.  CPU Random Network Performance.**
 > Both CPU codes scaled in a linear fashion once the network size reached a minimum of 64 reactants and species.  Note that both chart axes are of log_2 scale.
 
 ![Figure 4](https://i.imgur.com/xxa5RT8.png)
+
 **Figure 4.  GPU Random Network Performance.**
 > Graphics card resources became saturated between network sizes of 128 and 256 total reactants and species.  Note that both chart axes are of log_2 scale.
 
 ![Figure 5](https://i.imgur.com/uwFVZ3K.png)
+
 **Figure 5.  GPU/CPU Random Network Speed-Up.**
 > The parallel GPU code outperformed the serial, single-processor CPU code for all network sizes tested.
 
 ![Figure 6](https://i.imgur.com/HBQONkn.png)
+
 **Figure 6.  Cartilage Breakdown Performance.**
 > The GPU code outperformed the vectorized CPU code and the regular CPU code by 3.70x and 7.47x, respectively. 
 
